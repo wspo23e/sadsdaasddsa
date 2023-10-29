@@ -1,10 +1,3 @@
---loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua"))() 
-
---⁥⁥⁥
-
-
---loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/sadsdaasddsa/main/sadsasdasdasdsdasdaasd"))()
-
 local Bypasses = {
     ["hitler"] = "НI⁥⁥Т⁥⁥⁥L⁥⁥⁥Е⁥⁥⁥R",
     ["hail"] = "НАI⁥⁥L",
