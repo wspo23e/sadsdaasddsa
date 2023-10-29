@@ -1,4 +1,15 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua"))() 
+
+--⁥⁥⁥
+
+
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/sadsdaasddsa/main/sadsasdasdasdsdasdaasd"))()
+
 local Bypasses = {
+    ["hitler"] = "НI⁥⁥Т⁥⁥⁥L⁥⁥⁥Е⁥⁥⁥R",
+    ["hail"] = "НАI⁥⁥L",
+    ["jew"] = "j⁥⁥⁥е⁥⁥⁥w",
+    ["jews"] = "j⁥⁥⁥е⁥⁥⁥ws",
     ["bastard"] = "ВАЅТАRD",
     ["cum"] = "сu⁥⁥⁥⁥⁥⁥⁥m",
     ["my"] = "⁥⁥⁥⁥⁥m⁥⁥⁥у",
@@ -71,7 +82,7 @@ local Bypasses = {
     ["manual"] = "Маnuаl",
     ["ass hole"] = "аss hоlе",
     ["bitch"] = "ВI⁥⁥⁥⁥⁥⁥ТСН",
-	  ["i hate these bitches"] = "I НАТЕ ТНЕSЕ ВIТСНЕS!",
+	["i hate these bitches"] = "I НАТЕ ТНЕSЕ ВIТСНЕS!",
     ["cock"] = "сосk",
     ["cocks"] = "сосks",
     ["smd"] = "SUCК МY СОСК",
@@ -91,6 +102,8 @@ local Bypasses = {
     ["tight"] = "Тight",
     ["sexier"] = "sехiеr",
     ["tell"] = "tеll",
+
+   -- ["sex"] = "se{{aieixzvzx:x}}",
     ["hitler"] = "hit{{aieixzvzx:ler}}",
     ["kike"] = "ki{{aieixzvzx:ke}}",
     ["motherfucker"] = "motherf{{aieixzvzx:ucker}}",
