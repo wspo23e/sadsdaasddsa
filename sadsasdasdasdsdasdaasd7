@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua"))() 
+
 
 
 --⁥⁥⁥
@@ -119,7 +119,6 @@ local Bypasses = {
     ["calm"] = "с⁥⁥⁥⁥⁥⁥аlm",
     ["shit"] = "⁥⁥⁥    SНIТ",
     ["slut"] = "sl{{aieixzvzx:ut}}",
-    ["whore"] = "who{{aieixzvzx:re}}",
     ["discord"] = "disco{{aieixzvzx:rd}}",
     ["kys"] = "Куs",
     ["slave"] = "sla{{aieixzvzx:ve}}",
