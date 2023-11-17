@@ -1,7 +1,7 @@
 
---loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua"))()
 --ѕ
---⁥⁥⁥⁥⁥⁥⁥⁥⁥
+⁥⁥⁥⁥⁥⁥⁥⁥⁥
 -- ⁥υ
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/sadsdaasddsa/main/sadsasdasdasdsdasdaasd"))()
 
@@ -10,7 +10,7 @@ local Bypasses = {
     ["slaves"] = " ѕӀаνеѕ⁥",
     ["shut up"] = "⁥⁥ѕ⁥⁥⁥h⁥⁥⁥⁥⁥⁥⁥υ⁥⁥⁥t⁥⁥⁥ ⁥⁥⁥⁥υ⁥⁥⁥р⁥⁥⁥",
     ["fuck"] = "Ｆ⁥ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ  ⁥С ⁥⁥К", 
-    ["dick"] = "dìck⁥", 
+    ["dick"] = "dìck", 
     ["ok?"] = "о⁥⁥⁥⁥⁥⁥⁥⁥⁥k?",  
     ["ok"] = "о⁥k", 
     ["whore"] = "Ԝ⁥⁥⁥Н⁥⁥⁥О⁥⁥⁥R⁥⁥⁥Е",
@@ -23,7 +23,7 @@ local Bypasses = {
     ["cum"] = "с⁥⁥⁥⁥⁥⁥⁥⁥u⁥⁥⁥⁥⁥⁥⁥m",
     ["my"] = "⁥⁥⁥⁥⁥m⁥⁥⁥у",
     ["suck"] = "ѕυ⁥⁥⁥сk⁥⁥⁥", 
-    ["stfu"] = "ѕ ⁥⁥⁥⁥⁥⁥⁥⁥⁥t⁥⁥⁥⁥⁥⁥⁥⁥f⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥υ ⁥⁥⁥",
+    ["stfu"] = "ѕ ⁥⁥⁥⁥⁥⁥⁥⁥⁥t⁥⁥⁥⁥⁥⁥⁥⁥f⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥υ⁥⁥⁥",
     ["says"] = "ѕ⁥⁥ауѕ",
     ["nigger"] = "niġġer",
     ["you"] = "уо⁥⁥⁥⁥⁥⁥⁥υ",
@@ -200,6 +200,7 @@ local Bypasses = {
     ["attractive"] = "аttrасtivе",
     ["raping"] = "rap{{aieixzvzx:ing}}",
     ["fucker"] = "fu{{aieixzvzx:cker}}",
+    ["slaves"] = "sla{{aieixzvzx:ves}}",
     ["cracker"] = "crac{{aieixzvzx:ker}}",
     ["niggas"] = "ni{{aieixzvzx:ggas}}",
     ["pussys"] = "pu{{aieixzvzx:ssys}}",
