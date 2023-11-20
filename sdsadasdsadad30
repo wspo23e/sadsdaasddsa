@@ -7,7 +7,6 @@
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/sadsdaasddsa/main/sadsasdasdasdsdasdaasd"))()
 
 local Bypasses = {
-    ["your"] = "у⁥⁥⁥⁥⁥⁥⁥⁥⁥о⁥⁥⁥⁥⁥⁥⁥u⁥⁥⁥⁥⁥⁥⁥⁥⁥r",
     ["pussy"] = "рu⁥⁥⁥⁥⁥⁥⁥s⁥⁥⁥⁥⁥⁥⁥⁥ѕу",
     ["big"] = "В⁥⁥⁥⁥⁥⁥⁥⁥і⁥⁥⁥⁥⁥⁥⁥⁥⁥g",
     ["people"] = "р⁥⁥⁥⁥⁥е⁥⁥⁥⁥⁥⁥⁥⁥⁥о⁥⁥⁥⁥⁥р⁥⁥⁥⁥⁥⁥⁥⁥⁥l⁥⁥⁥⁥⁥⁥⁥⁥⁥е",
@@ -136,13 +135,10 @@ local Bypasses = {
     ["shit"] = "⁥S⁥⁥⁥⁥⁥⁥⁥⁥⁥Н⁥⁥⁥⁥⁥⁥⁥⁥⁥lТ", 
     ["kill"] = "К⁥⁥⁥⁥⁥⁥іII",
     ["date"] = "d⁥⁥⁥⁥⁥⁥аtе",
-    ["raped"] = "ra{{aieixzvzx:ped}}",
     ["rape"] = "r⁥⁥⁥⁥⁥⁥аре",
-    ["hentai"] = "hen{{aieixzvzx:tai}}",
     ["pornhub"] = "ро⁥⁥⁥⁥⁥⁥rnhub",
     ["child"] = "с⁥⁥⁥⁥⁥⁥hіld",
     ["tits"] = "Т⁥⁥⁥⁥⁥⁥lТ",
-    ["discord.com"] = "disco{{aieixzvzx:rd.com}}",
     ["will"] = "wiII",
     ["porn"] = "р⁥⁥⁥⁥⁥⁥оrn",
     ["daddy"] = "d⁥⁥⁥⁥⁥⁥addу",
@@ -157,7 +153,6 @@ local Bypasses = {
     ["racism"] = "rасism",
     ["com"] = "соm",
     ["sucide"] = "ѕ⁥υсidе",
-    ["sugar"] = "sug{{aieixzvzx:ar}}",
     ["on"] = "оn",
     ["riding"] = "ri⁥⁥⁥⁥⁥⁥di⁥⁥⁥⁥⁥⁥ng",
     ["he"] = "h⁥⁥⁥⁥⁥⁥⁥⁥⁥е",
