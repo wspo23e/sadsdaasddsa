@@ -1,12 +1,6 @@
-
---loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua"))()
---ѕ
---⁥⁥⁥⁥⁥⁥⁥⁥⁥
---υ
---⁥і
---loadstring(game:HttpGet("https://raw.githubusercontent.com/wspo23e/sadsdaasddsa/main/sadsasdasdasdsdasdaasd"))()
-
 local Bypasses = {
+    ["nigga"] = " Νl⁥⁥⁥⁥⁥⁥⁥⁥l⁥⁥⁥⁥⁥⁥⁥⁥⁥Ԍ⁥⁥⁥⁥⁥⁥⁥⁥⁥Ԍ⁥⁥⁥⁥⁥⁥⁥⁥⁥А",
+    ["niggas"] = " Νl⁥⁥⁥⁥⁥⁥⁥⁥l⁥⁥⁥⁥⁥⁥⁥⁥⁥Ԍ⁥⁥⁥⁥⁥⁥⁥⁥⁥Ԍ⁥⁥⁥⁥⁥⁥⁥⁥⁥А⁥⁥⁥⁥⁥⁥⁥⁥⁥Ѕ",
     ["your"] = "у⁥⁥⁥⁥⁥⁥⁥⁥⁥о⁥⁥⁥⁥⁥⁥⁥u⁥⁥⁥⁥⁥⁥⁥⁥⁥r",
     ["pussy"] = "рu⁥⁥⁥⁥⁥⁥⁥s⁥⁥⁥⁥⁥⁥⁥⁥ѕу",
     ["big"] = "В⁥⁥⁥⁥⁥⁥⁥⁥і⁥⁥⁥⁥⁥⁥⁥⁥⁥g",
@@ -40,7 +34,7 @@ local Bypasses = {
     ["ok?"] = "о⁥⁥⁥⁥⁥⁥⁥⁥⁥k?",  
     ["ok"] = "о⁥k",  
     ["whore"] = "Ԝ⁥⁥⁥Н⁥⁥⁥О⁥⁥⁥R⁥⁥⁥Е",  
-    ["slave"] = "ѕ⁥⁥I⁥⁥⁥а⁥⁥⁥v⁥⁥⁥е",
+    ["slave"] = "ѕ⁥⁥I⁥⁥⁥а⁥⁥⁥v⁥⁥⁥е", 
     ["hitler"] = "НI⁥⁥Т⁥⁥⁥L⁥⁥⁥Е⁥⁥⁥R", 
     ["hail"] = "НАI⁥⁥L",
     ["jew"] = "j⁥⁥⁥е⁥⁥⁥w",   
@@ -50,7 +44,7 @@ local Bypasses = {
     ["my"] = "m⁥⁥⁥⁥⁥⁥⁥⁥⁥у",
     ["suck"] = "ѕυ⁥⁥⁥сk⁥⁥⁥", 
     ["stfu"] = "ѕ ⁥⁥⁥⁥⁥⁥⁥⁥⁥t⁥⁥⁥⁥⁥⁥⁥⁥f⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥υ⁥⁥⁥",
-    ["says"] = "ѕ⁥⁥ауѕ",
+    ["says"] = "ѕ⁥⁥ауѕ", 
     ["nigger"] = "niġġer",
     ["you"] = "уо⁥⁥⁥⁥⁥⁥⁥u",
     ["acl"] = "anti chat lоggеr",
