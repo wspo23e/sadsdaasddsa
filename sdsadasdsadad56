@@ -1,8 +1,8 @@
-
+can u change this script, so everytiem i type anything in the chat, it also adds in the beggining of the  message and white iamge/very much texts: 
 local Bypasses = {
     [""] = "⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥ۘ ۘ⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥",
     [" "] = "⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥ۘ ۘ⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥⁥",
-    ["fuck"] = "⁥⁥⁥⁥⁥⁥⁥ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ⁥f⁥⁥⁥⁥⁥⁥⁥⁥⁥υ⁥⁥⁥⁥⁥⁥⁥⁥⁥с⁥⁥⁥⁥⁥⁥⁥⁥⁥К", 
+    ["fuck"] = "⁥⁥⁥⁥⁥⁥⁥ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ⁥f⁥⁥⁥⁥⁥⁥⁥⁥⁥υ⁥⁥⁥⁥⁥⁥⁥⁥⁥с⁥⁥⁥⁥⁥⁥⁥⁥⁥К", 
     ["you"] = "у⁥⁥⁥⁥⁥⁥⁥⁥⁥о⁥⁥⁥⁥⁥⁥⁥υ",
     ["nigga"] = " Νl⁥⁥⁥⁥⁥⁥⁥⁥l⁥⁥⁥⁥⁥⁥⁥⁥⁥Ԍ⁥⁥⁥⁥⁥⁥⁥⁥⁥Ԍ⁥⁥⁥⁥⁥⁥⁥⁥⁥А",
     ["niggas"] = " Νl⁥⁥⁥⁥⁥⁥⁥⁥l⁥⁥⁥⁥⁥⁥⁥⁥⁥Ԍ⁥⁥⁥⁥⁥⁥⁥⁥⁥Ԍ⁥⁥⁥⁥⁥⁥⁥⁥⁥А⁥⁥⁥⁥⁥⁥⁥⁥⁥Ѕ",
@@ -222,7 +222,7 @@ local ChatBypass; ChatBypass = hookmetamethod(Remote, "__namecall", function(sel
     
     if self == Remote and Method == "FireServer" then
         local Message = Arguments[1]
-        local Split = Message:split(" ")
+        local Split = Message:split(" ⁥⁥⁥⁥⁥⁥⁥ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ")
         local FinalMessage = " "
 
         for _, x in next, Split do
@@ -230,16 +230,16 @@ local ChatBypass; ChatBypass = hookmetamethod(Remote, "__namecall", function(sel
                 if x:lower() == _ then
                     if x:upper() ~= x then
                         Message = Message:gsub(x, Bypass)
-                        FinalMessage = Message .. " "
+                        FinalMessage = Message .. " ⁥⁥⁥⁥⁥⁥⁥ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ "
                     else
                         Message = Message:gsub(x, Bypass):upper()
-                        FinalMessage = Message:gsub(x, Bypass):upper() .. " "
+                        FinalMessage = Message:gsub(x, Bypass):upper() .. " ⁥⁥⁥⁥⁥⁥⁥ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ "
                     end
                 end
             end
         end
         
-        if FinalMessage ~= " " then
+        if FinalMessage ~= " ⁥⁥⁥⁥⁥⁥⁥ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ ۘ ۘ ۘ⁥⁥⁥⁥⁥⁥⁥ۘ " then
             Arguments[1] = FinalMessage
         end
         
